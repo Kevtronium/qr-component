@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --white: #ffffff;
+  --slate-300: #d5e1ef;
+  --slate-500: #68778d;
+  --slate-900: #1f314f;
+  --blue-500: #3685ff;
+  --blue-600: #2c7dfa;
+  --space-200: 16px;
+  --space-300: 24px;
+  --space-500: 40px;
+  --text-preset-1: 22px;
+  --text-preset-2: 15px;
+}
